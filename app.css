@@ -20,7 +20,9 @@ body {
     padding: 1em;
     width: 80%;
 }
-
+h1 {
+    color: red;
+}
 .destination-container {
     display: flex;
     flex-flow: wrap;
